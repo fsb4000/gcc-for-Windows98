@@ -24,3 +24,6 @@ https://github.com/gcc-mirror/gcc/blob/b7210405ed8eb5fd723b2c99960dcc5f0aec89b4/
 and
 https://github.com/gcc-mirror/gcc/blob/b7210405ed8eb5fd723b2c99960dcc5f0aec89b4/libstdc%2B%2B-v3/src/filesystem/ops.cc#L482
 
+![gcc](Images/gcc1.png)
+![gcc](Images/gcc2.png)
+![gcc](Images/gcc3.png)
