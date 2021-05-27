@@ -1,6 +1,8 @@
 # gcc-for-Windows98
 I managed to build gcc 11.1.0 for Windows 98 :)
 
+std::filesystem doesn't work. Also compiler uses ```thread model: win32``` so no ```std::thread``` and ```std::mutex``` and other stuff.
+
 binutils, gmp, mpfr, mpc: no additional patches needed. :)
 
 mingw-w64:
